@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+
+#mainNav{
+    background: white;
+    padding: 15px 0;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* logo */
+#mainNav img{
+    position: relative;
+    max-height: 5vh;
+    float: left;
+}
+
+#mainNav a{
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+#mainNav ul{
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+#mainNav ul a{
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 7px;
+    transition: 0.2s;
+    border-radius: 20px;
+
+}
+
+#mainNav ul a:hover{
+    color: white;
+    background: black;
+
+}
