@@ -6,4 +6,8 @@
 
 4) Ryuji
 
+<<<<<<< HEAD
 Ceritanya ada error cenah
+=======
+5) Sakamoto
+>>>>>>> ryuji-sakamoto
